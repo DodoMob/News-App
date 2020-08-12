@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "_id": "60ba473157e5944023fe7daf0e1c9c2f",
+      "author": "Kevin Dougherty",
+      "clean_url": "ipolitics.ca",
+      "country": "CA",
+      "language": "en",
+      "link": "https://ipolitics.ca/2020/06/01/in-search-of-the-goldilocks-app/",
+      "published_date": "2020-06-01 18:04:26",
+      "rank": "21625",
+      "rights": null,
+      "summary": "QUEBEC — Governments across Canada are looking for a life-saving app to contain the spread of the COVID-19 pandemic, while offering citizens daily risk evaluations that could ease the constraints of lockdowns, and at the same time preserving their privacy. Two technologies are being proposed. Apple and Google have developed a platform that allows binary [&#8230;]",
+      "title": "In search of the Goldilocks app",
+      "topic": "news"
+    },
+    {
+      "_id": "225db7ea1350efb70ee3391bd7d16dcc",
+      "author": "Rajesh Pandey",
+      "clean_url": "iphonehacks.com",
+      "country": "NA",
+      "language": "en",
+      "link": "http://www.iphonehacks.com/2020/06/apple-kills-ios-13-5-jailbreak-new-ios-update.html",
+      "published_date": "2020-06-01 18:00:32",
+      "rank": "20092",
+      "rights": null,
+      "summary": "Apple today released the iOS 13.5.1 update less than a couple of weeks after it had released iOS 13.5 with some major changes and improvements. The update patches the 0-day vulnerability used by Unc0ver to jailbreak iOS 13.5. Continue reading →",
+      "title": "Apple Kills iOS 13.5 Jailbreak With New iOS Update",
+      "topic": "NA"
+    }
+  ],
+  "page": 1,
+  "page_size": 50,
+  "status": "ok",
+  "total_hits": 5675,
+  "total_pages": 114,
+  "user_input": {
+    "from": "2020-05-25 00:00:00",
+    "from_rank": null,
+    "lang": null,
+    "not_sources": null,
+    "page": 1,
+    "q": "AAPL",
+    "ranked_only": "True"
+  }
+} 
