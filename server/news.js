@@ -9,7 +9,7 @@ const news = process.env.NODE_ENV === 'development'
 router.get('/', (req, res) => {
   fs.readFile(news, (err, data) => {
     if (err) throw err;
-    res.json(JSON.parse(data));
+    res.send(JSON.parse(data));
   });
 });
 
